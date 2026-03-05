@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-printf("Implantacao realizada com sucesso!\n");
+printf("Correção de bug realizada com sucesso!\n");
 
 return 0;
 }
